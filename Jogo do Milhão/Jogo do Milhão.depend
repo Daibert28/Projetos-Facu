@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576283577 source:c:\users\geanna daibert\desktop\programas em c\jogo do milhão\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
